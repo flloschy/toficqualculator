@@ -146,7 +146,7 @@ struct desktop_entry *desktop_vec_find_sorted(struct desktop_vec *restrict vec, 
 	struct desktop_entry tmp = { .name = (char *)name };
 	return bsearch(&tmp, vec->buf, vec->count, sizeof(vec->buf[0]), cmpdesktopp);
 }
-
+#include <stdlib.h>
 struct string_ref_vec desktop_vec_filter(
 		const struct desktop_vec *restrict vec,
 		const char *restrict substr,
@@ -180,6 +180,12 @@ struct string_ref_vec desktop_vec_filter(
 	 * of words to the front of the result list.
 	 */
 	qsort(filt.buf, filt.count, sizeof(filt.buf[0]), cmpscorep);
+	if (filt.count == 0) {		
+		popen("qalc -t \"80H+80s\"", "r");
+
+		string_ref_vec_add(&filt, "output");
+	}
+	
 	return filt;
 }
 
