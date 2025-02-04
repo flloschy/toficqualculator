@@ -183,9 +183,9 @@ struct string_ref_vec desktop_vec_filter(
 	qsort(filt.buf, filt.count, sizeof(filt.buf[0]), cmpscorep);
 	// use input to calculate if no match is found
 	if (filt.count == 0) {
-		popen("qalc -t \"80H+80s\" > ./mathFile.txt", "r");
+		char mathStr[] = popen("qalc -t \"80H+80s\"", "r");
 
-		string_ref_vec_add(&filt, "output");
+		string_ref_vec_add(&filt, "%s" mathStr[]);
 	}
 	
 	return filt;
