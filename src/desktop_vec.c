@@ -178,26 +178,24 @@ struct string_ref_vec desktop_vec_filter(const struct desktop_vec *restrict vec,
   qsort(filt.buf, filt.count, sizeof(filt.buf[0]), cmpscorep);
   // use input to calculate if no match is found
   if (filt.count == 0) {
-    char strQalc[128] = "qalc ";
+    char strQalc[128] = "qalc -t ";
     char combined[128];
     char result[128];
-    int status;
 
-    strncpy(combined, strQalc, sizeof(combined) - 1);
+    strncpy(combined, strQalc, sizeof(strQalc) - 1);
     combined[sizeof(combined) - 1] = '\0'; // Ensure null termination
     strncat(combined, substr, sizeof(combined) - strlen(combined) - 1);
-    
+
     FILE *fp = popen(combined, "r");
+    // extract String from FILE
     while (fgets(combined, sizeof(combined), fp) != NULL) {
       // Append the output to the result string
       strncat(result, combined, sizeof(result) - strlen(result) - 1);
     }
     // Close the file pointer
-    status = pclose(fp);
-
-    if (status != -1) {
-      string_ref_vec_add(&filt, utf8_normalize(result));
-    }
+    pclose(fp);
+    // print result
+    string_ref_vec_add(&filt, utf8_normalize(result));
   }
 
   return filt;
