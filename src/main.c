@@ -1006,12 +1006,25 @@ static bool do_submit(struct tofi *tofi)
 	uint32_t selection = entry->selection + entry->first_result;
 	char *res = entry->results.buf[selection].string;
 
-	if (tofi->window.entry.results.count == 0) {
-		/* Always require a match in drun mode. */
-		if (tofi->require_match || entry->mode == TOFI_MODE_DRUN) {
+	if (tofi->window.entry.results.count <= 1) {
+		// no work
+		// if (res[0] == "=") {
+  		// 	printf(res);
+  		// 	return true;
+		// } 
+		if (tofi->require_match) {
 			return false;
 		} else {
-			printf("%s\n", entry->input_utf8);
+			char result[128] = "qalc -t -m 1000  \"";
+			strncat(result, entry->input_utf8, sizeof(result) - 1);
+			strncat(result, "\"", sizeof(result) - 1);
+			// execute command
+			FILE *fp = popen(result, "r");
+    		// extract String from FILE
+    		fgets(result, 50, fp);
+    		pclose(fp);
+			// print result
+			printf(result);
 			return true;
 		}
 	}
