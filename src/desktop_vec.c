@@ -177,7 +177,6 @@ struct string_ref_vec desktop_vec_filter(const struct desktop_vec *restrict vec,
    */
   qsort(filt.buf, filt.count, sizeof(filt.buf[0]), cmpscorep);
   // use input to calculate if no match is found
-
   if (filt.count == 0) {
     char strQalc[128] = "qalc ";
     char combined[128];
@@ -187,7 +186,7 @@ struct string_ref_vec desktop_vec_filter(const struct desktop_vec *restrict vec,
     strncpy(combined, strQalc, sizeof(combined) - 1);
     combined[sizeof(combined) - 1] = '\0'; // Ensure null termination
     strncat(combined, substr, sizeof(combined) - strlen(combined) - 1);
-    // strncat(out, substr, sizeof(strQalc) - strlen(strQalc) - 1);
+    
     FILE *fp = popen(combined, "r");
     while (fgets(combined, sizeof(combined), fp) != NULL) {
       // Append the output to the result string
@@ -199,34 +198,6 @@ struct string_ref_vec desktop_vec_filter(const struct desktop_vec *restrict vec,
     if (status != -1) {
       string_ref_vec_add(&filt, utf8_normalize(result));
     }
-
-    // // Copy the initial command into combined
-    // strncpy(combined, strQalc, sizeof(combined) - 1);
-    // combined[sizeof(combined) - 1] = '\0'; // Ensure null termination
-
-    // // Concatenate the calculation to the command
-    // strncat(combined, substr, sizeof(combined) - strlen(combined) - 1);
-
-    // // Create the full command to execute
-    // char command[256];
-    // snprintf(command, sizeof(command), "touch file.txt && %s >> file.txt",
-    //          combined);
-
-    // // Execute the command using popen
-    // FILE *fp = popen(command, "r");
-
-    // // Optionally read output from the command if needed
-    // char out[128];
-    // while (fgets(out, sizeof(out), fp) != NULL) {
-    //   // Process the output if needed
-    //   printf("%s", out);
-    // }
-
-    // // Close the pipe
-    // pclose(fp);
-
-    // // Assuming string_ref_vec_add is defined elsewhere
-    // // string_ref_vec_add(&filt, out);
   }
 
   return filt;
