@@ -1,0 +1,88 @@
+1 = 1
+10 = 10
+102 = 102
+10 = 10
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 + 2 = 3
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 = 1
+21 = 21
+213 = 213
+2131 = 2131
+21312 = 21312
+213123 = 213123
+2131231 = 2131231
+warning: Misplaced operator(s) "+" ignored
+2131231 = 2131231
+2131231 + 2 = 2131233
+2131231 + 23 = 2131254
+2131231 + 231 = 2131462
+2131231 + 2312 = 2133543
+2131231 + 23123 = 2154354
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 + 1 = 2
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 + 1 = 2
+1 + 12 = 13
+1 + 123 = 124
+1 + 12 = 13
+1 + 1 = 2
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 = 1
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 = 1
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 + 1 = 2
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 + 1 = 2
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 + 1 = 2
+1 + (1 day) = 1 d + 1
+1 + (1 decisecond) = 100 ms + 1
+1 + (1 decisecond·day) = 8640 s² + 1
+1 + (1 decisecond·decare) = 100 ms·da + 1
+1 + (1 decisecond·day) = 8640 s² + 1
+1 + (1 decisecond·day²) = 746496000 s³ + 1
+1 + (1 decisecond·day × 21) = 181440 s² + 1
+1 + (1 decisecond·day × 211) = 1823040 s² + 1
+1 + (1 decisecond·day × 2112) = 18247680 s² + 1
+1 + (1 decisecond·day × 211) = 1823040 s² + 1
+1 + (1 decisecond·day × 21) = 181440 s² + 1
+1 + (1 decisecond·day²) = 746496000 s³ + 1
+1 + (1 decisecond·day) = 8640 s² + 1
+1 + (1 decisecond) = 100 ms + 1
+1 + (1 day) = 1 d + 1
+1 + 1 = 2
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 = 1
+1 = 1
+23 = 23
+warning: Misplaced operator(s) "+" ignored
+23 = 23
+23 = 23
+warning: Misplaced operator(s) "+" ignored
+0 = 0
+1 = 1
+1 = 1
+1 = 1
+1 = 1
+warning: Misplaced operator(s) "+" ignored
+1 = 1
+1 + 2 = 3
