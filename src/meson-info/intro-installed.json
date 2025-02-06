@@ -1,0 +1,8 @@
+{
+  "/home/f4/Documents/tofi/toficqualculator/src/tofi": "/usr/bin/tofi",
+  "/home/f4/Documents/tofi/toficqualculator/doc/config": "/etc/xdg/tofi/config",
+  "/home/f4/Documents/tofi/toficqualculator/LICENSE": "/usr/share/licenses/tofi/LICENSE",
+  "/home/f4/Documents/tofi/toficqualculator/completions/tofi": "/usr/share/bash-completion/completions/tofi",
+  "tofi-run": "/usr/bin/tofi-run",
+  "tofi-drun": "/usr/bin/tofi-drun"
+}

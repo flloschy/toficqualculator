@@ -1,9 +1,9 @@
-#include "src/string_vec.h"
-#include "src/unicode.h"
+#include "string_vec.h"
+#include "unicode.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// #include "modules.h"
+#include "modules.h"
 
 char do_math(const char *restrict query, struct string_ref_vec filt) {
     char result[128] = "qalc -t -m 1000  \"";

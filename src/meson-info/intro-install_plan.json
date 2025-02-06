@@ -1,0 +1,27 @@
+{
+  "targets": {
+    "/home/f4/Documents/tofi/toficqualculator/src/tofi": {
+      "destination": "{bindir}/tofi",
+      "tag": "runtime",
+      "subproject": null,
+      "install_rpath": null
+    }
+  },
+  "data": {
+    "/home/f4/Documents/tofi/toficqualculator/doc/config": {
+      "destination": "{sysconfdir}/xdg/tofi/config",
+      "tag": null,
+      "subproject": null
+    },
+    "/home/f4/Documents/tofi/toficqualculator/LICENSE": {
+      "destination": "{datadir}/licenses/tofi/LICENSE",
+      "tag": null,
+      "subproject": null
+    },
+    "/home/f4/Documents/tofi/toficqualculator/completions/tofi": {
+      "destination": "{prefix}/share/bash-completion/completions/tofi",
+      "tag": null,
+      "subproject": null
+    }
+  }
+}

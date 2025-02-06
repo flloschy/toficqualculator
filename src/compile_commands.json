@@ -1,0 +1,548 @@
+[
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/meson-generated_.._.._xdg-shell.c.o -MF test/config.p/meson-generated_.._.._xdg-shell.c.o.d -o test/config.p/meson-generated_.._.._xdg-shell.c.o -c xdg-shell.c",
+    "file": "xdg-shell.c",
+    "output": "test/config.p/meson-generated_.._.._xdg-shell.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/meson-generated_.._.._viewporter.c.o -MF test/config.p/meson-generated_.._.._viewporter.c.o.d -o test/config.p/meson-generated_.._.._viewporter.c.o -c viewporter.c",
+    "file": "viewporter.c",
+    "output": "test/config.p/meson-generated_.._.._viewporter.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o -MF test/config.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o.d -o test/config.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o -c wlr-layer-shell-unstable-v1.c",
+    "file": "wlr-layer-shell-unstable-v1.c",
+    "output": "test/config.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/meson-generated_.._.._fractional-scale-v1.c.o -MF test/config.p/meson-generated_.._.._fractional-scale-v1.c.o.d -o test/config.p/meson-generated_.._.._fractional-scale-v1.c.o -c fractional-scale-v1.c",
+    "file": "fractional-scale-v1.c",
+    "output": "test/config.p/meson-generated_.._.._fractional-scale-v1.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/config.c.o -MF test/config.p/config.c.o.d -o test/config.p/config.c.o -c ../test/config.c",
+    "file": "../test/config.c",
+    "output": "test/config.p/config.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/tap.c.o -MF test/config.p/tap.c.o.d -o test/config.p/tap.c.o -c ../test/tap.c",
+    "file": "../test/tap.c",
+    "output": "test/config.p/tap.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_clipboard.c.o -MF test/config.p/.._src_clipboard.c.o.d -o test/config.p/.._src_clipboard.c.o -c ../src/clipboard.c",
+    "file": "../src/clipboard.c",
+    "output": "test/config.p/.._src_clipboard.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_color.c.o -MF test/config.p/.._src_color.c.o.d -o test/config.p/.._src_color.c.o -c ../src/color.c",
+    "file": "../src/color.c",
+    "output": "test/config.p/.._src_color.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_compgen.c.o -MF test/config.p/.._src_compgen.c.o.d -o test/config.p/.._src_compgen.c.o -c ../src/compgen.c",
+    "file": "../src/compgen.c",
+    "output": "test/config.p/.._src_compgen.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_config.c.o -MF test/config.p/.._src_config.c.o.d -o test/config.p/.._src_config.c.o -c ../src/config.c",
+    "file": "../src/config.c",
+    "output": "test/config.p/.._src_config.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_desktop_vec.c.o -MF test/config.p/.._src_desktop_vec.c.o.d -o test/config.p/.._src_desktop_vec.c.o -c ../src/desktop_vec.c",
+    "file": "../src/desktop_vec.c",
+    "output": "test/config.p/.._src_desktop_vec.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_drun.c.o -MF test/config.p/.._src_drun.c.o.d -o test/config.p/.._src_drun.c.o -c ../src/drun.c",
+    "file": "../src/drun.c",
+    "output": "test/config.p/.._src_drun.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_entry.c.o -MF test/config.p/.._src_entry.c.o.d -o test/config.p/.._src_entry.c.o -c ../src/entry.c",
+    "file": "../src/entry.c",
+    "output": "test/config.p/.._src_entry.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_entry_backend_pango.c.o -MF test/config.p/.._src_entry_backend_pango.c.o.d -o test/config.p/.._src_entry_backend_pango.c.o -c ../src/entry_backend/pango.c",
+    "file": "../src/entry_backend/pango.c",
+    "output": "test/config.p/.._src_entry_backend_pango.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_entry_backend_harfbuzz.c.o -MF test/config.p/.._src_entry_backend_harfbuzz.c.o.d -o test/config.p/.._src_entry_backend_harfbuzz.c.o -c ../src/entry_backend/harfbuzz.c",
+    "file": "../src/entry_backend/harfbuzz.c",
+    "output": "test/config.p/.._src_entry_backend_harfbuzz.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_matching.c.o -MF test/config.p/.._src_matching.c.o.d -o test/config.p/.._src_matching.c.o -c ../src/matching.c",
+    "file": "../src/matching.c",
+    "output": "test/config.p/.._src_matching.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_history.c.o -MF test/config.p/.._src_history.c.o.d -o test/config.p/.._src_history.c.o -c ../src/history.c",
+    "file": "../src/history.c",
+    "output": "test/config.p/.._src_history.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_input.c.o -MF test/config.p/.._src_input.c.o.d -o test/config.p/.._src_input.c.o -c ../src/input.c",
+    "file": "../src/input.c",
+    "output": "test/config.p/.._src_input.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_lock.c.o -MF test/config.p/.._src_lock.c.o.d -o test/config.p/.._src_lock.c.o -c ../src/lock.c",
+    "file": "../src/lock.c",
+    "output": "test/config.p/.._src_lock.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_log.c.o -MF test/config.p/.._src_log.c.o.d -o test/config.p/.._src_log.c.o -c ../src/log.c",
+    "file": "../src/log.c",
+    "output": "test/config.p/.._src_log.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_mkdirp.c.o -MF test/config.p/.._src_mkdirp.c.o.d -o test/config.p/.._src_mkdirp.c.o -c ../src/mkdirp.c",
+    "file": "../src/mkdirp.c",
+    "output": "test/config.p/.._src_mkdirp.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_scale.c.o -MF test/config.p/.._src_scale.c.o.d -o test/config.p/.._src_scale.c.o -c ../src/scale.c",
+    "file": "../src/scale.c",
+    "output": "test/config.p/.._src_scale.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_shm.c.o -MF test/config.p/.._src_shm.c.o.d -o test/config.p/.._src_shm.c.o -c ../src/shm.c",
+    "file": "../src/shm.c",
+    "output": "test/config.p/.._src_shm.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_string_vec.c.o -MF test/config.p/.._src_string_vec.c.o.d -o test/config.p/.._src_string_vec.c.o -c ../src/string_vec.c",
+    "file": "../src/string_vec.c",
+    "output": "test/config.p/.._src_string_vec.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_surface.c.o -MF test/config.p/.._src_surface.c.o.d -o test/config.p/.._src_surface.c.o -c ../src/surface.c",
+    "file": "../src/surface.c",
+    "output": "test/config.p/.._src_surface.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_unicode.c.o -MF test/config.p/.._src_unicode.c.o.d -o test/config.p/.._src_unicode.c.o -c ../src/unicode.c",
+    "file": "../src/unicode.c",
+    "output": "test/config.p/.._src_unicode.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_xmalloc.c.o -MF test/config.p/.._src_xmalloc.c.o.d -o test/config.p/.._src_xmalloc.c.o -c ../src/xmalloc.c",
+    "file": "../src/xmalloc.c",
+    "output": "test/config.p/.._src_xmalloc.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/config.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/config.p/.._src_modules.c.o -MF test/config.p/.._src_modules.c.o.d -o test/config.p/.._src_modules.c.o -c ../src/modules.c",
+    "file": "../src/modules.c",
+    "output": "test/config.p/.._src_modules.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/meson-generated_.._.._xdg-shell.c.o -MF test/utf8.p/meson-generated_.._.._xdg-shell.c.o.d -o test/utf8.p/meson-generated_.._.._xdg-shell.c.o -c xdg-shell.c",
+    "file": "xdg-shell.c",
+    "output": "test/utf8.p/meson-generated_.._.._xdg-shell.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/meson-generated_.._.._viewporter.c.o -MF test/utf8.p/meson-generated_.._.._viewporter.c.o.d -o test/utf8.p/meson-generated_.._.._viewporter.c.o -c viewporter.c",
+    "file": "viewporter.c",
+    "output": "test/utf8.p/meson-generated_.._.._viewporter.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o -MF test/utf8.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o.d -o test/utf8.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o -c wlr-layer-shell-unstable-v1.c",
+    "file": "wlr-layer-shell-unstable-v1.c",
+    "output": "test/utf8.p/meson-generated_.._.._wlr-layer-shell-unstable-v1.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/meson-generated_.._.._fractional-scale-v1.c.o -MF test/utf8.p/meson-generated_.._.._fractional-scale-v1.c.o.d -o test/utf8.p/meson-generated_.._.._fractional-scale-v1.c.o -c fractional-scale-v1.c",
+    "file": "fractional-scale-v1.c",
+    "output": "test/utf8.p/meson-generated_.._.._fractional-scale-v1.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/utf8.c.o -MF test/utf8.p/utf8.c.o.d -o test/utf8.p/utf8.c.o -c ../test/utf8.c",
+    "file": "../test/utf8.c",
+    "output": "test/utf8.p/utf8.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/tap.c.o -MF test/utf8.p/tap.c.o.d -o test/utf8.p/tap.c.o -c ../test/tap.c",
+    "file": "../test/tap.c",
+    "output": "test/utf8.p/tap.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_clipboard.c.o -MF test/utf8.p/.._src_clipboard.c.o.d -o test/utf8.p/.._src_clipboard.c.o -c ../src/clipboard.c",
+    "file": "../src/clipboard.c",
+    "output": "test/utf8.p/.._src_clipboard.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_color.c.o -MF test/utf8.p/.._src_color.c.o.d -o test/utf8.p/.._src_color.c.o -c ../src/color.c",
+    "file": "../src/color.c",
+    "output": "test/utf8.p/.._src_color.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_compgen.c.o -MF test/utf8.p/.._src_compgen.c.o.d -o test/utf8.p/.._src_compgen.c.o -c ../src/compgen.c",
+    "file": "../src/compgen.c",
+    "output": "test/utf8.p/.._src_compgen.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_config.c.o -MF test/utf8.p/.._src_config.c.o.d -o test/utf8.p/.._src_config.c.o -c ../src/config.c",
+    "file": "../src/config.c",
+    "output": "test/utf8.p/.._src_config.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_desktop_vec.c.o -MF test/utf8.p/.._src_desktop_vec.c.o.d -o test/utf8.p/.._src_desktop_vec.c.o -c ../src/desktop_vec.c",
+    "file": "../src/desktop_vec.c",
+    "output": "test/utf8.p/.._src_desktop_vec.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_drun.c.o -MF test/utf8.p/.._src_drun.c.o.d -o test/utf8.p/.._src_drun.c.o -c ../src/drun.c",
+    "file": "../src/drun.c",
+    "output": "test/utf8.p/.._src_drun.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_entry.c.o -MF test/utf8.p/.._src_entry.c.o.d -o test/utf8.p/.._src_entry.c.o -c ../src/entry.c",
+    "file": "../src/entry.c",
+    "output": "test/utf8.p/.._src_entry.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_entry_backend_pango.c.o -MF test/utf8.p/.._src_entry_backend_pango.c.o.d -o test/utf8.p/.._src_entry_backend_pango.c.o -c ../src/entry_backend/pango.c",
+    "file": "../src/entry_backend/pango.c",
+    "output": "test/utf8.p/.._src_entry_backend_pango.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_entry_backend_harfbuzz.c.o -MF test/utf8.p/.._src_entry_backend_harfbuzz.c.o.d -o test/utf8.p/.._src_entry_backend_harfbuzz.c.o -c ../src/entry_backend/harfbuzz.c",
+    "file": "../src/entry_backend/harfbuzz.c",
+    "output": "test/utf8.p/.._src_entry_backend_harfbuzz.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_matching.c.o -MF test/utf8.p/.._src_matching.c.o.d -o test/utf8.p/.._src_matching.c.o -c ../src/matching.c",
+    "file": "../src/matching.c",
+    "output": "test/utf8.p/.._src_matching.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_history.c.o -MF test/utf8.p/.._src_history.c.o.d -o test/utf8.p/.._src_history.c.o -c ../src/history.c",
+    "file": "../src/history.c",
+    "output": "test/utf8.p/.._src_history.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_input.c.o -MF test/utf8.p/.._src_input.c.o.d -o test/utf8.p/.._src_input.c.o -c ../src/input.c",
+    "file": "../src/input.c",
+    "output": "test/utf8.p/.._src_input.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_lock.c.o -MF test/utf8.p/.._src_lock.c.o.d -o test/utf8.p/.._src_lock.c.o -c ../src/lock.c",
+    "file": "../src/lock.c",
+    "output": "test/utf8.p/.._src_lock.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_log.c.o -MF test/utf8.p/.._src_log.c.o.d -o test/utf8.p/.._src_log.c.o -c ../src/log.c",
+    "file": "../src/log.c",
+    "output": "test/utf8.p/.._src_log.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_mkdirp.c.o -MF test/utf8.p/.._src_mkdirp.c.o.d -o test/utf8.p/.._src_mkdirp.c.o -c ../src/mkdirp.c",
+    "file": "../src/mkdirp.c",
+    "output": "test/utf8.p/.._src_mkdirp.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_scale.c.o -MF test/utf8.p/.._src_scale.c.o.d -o test/utf8.p/.._src_scale.c.o -c ../src/scale.c",
+    "file": "../src/scale.c",
+    "output": "test/utf8.p/.._src_scale.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_shm.c.o -MF test/utf8.p/.._src_shm.c.o.d -o test/utf8.p/.._src_shm.c.o -c ../src/shm.c",
+    "file": "../src/shm.c",
+    "output": "test/utf8.p/.._src_shm.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_string_vec.c.o -MF test/utf8.p/.._src_string_vec.c.o.d -o test/utf8.p/.._src_string_vec.c.o -c ../src/string_vec.c",
+    "file": "../src/string_vec.c",
+    "output": "test/utf8.p/.._src_string_vec.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_surface.c.o -MF test/utf8.p/.._src_surface.c.o.d -o test/utf8.p/.._src_surface.c.o -c ../src/surface.c",
+    "file": "../src/surface.c",
+    "output": "test/utf8.p/.._src_surface.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_unicode.c.o -MF test/utf8.p/.._src_unicode.c.o.d -o test/utf8.p/.._src_unicode.c.o -c ../src/unicode.c",
+    "file": "../src/unicode.c",
+    "output": "test/utf8.p/.._src_unicode.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_xmalloc.c.o -MF test/utf8.p/.._src_xmalloc.c.o.d -o test/utf8.p/.._src_xmalloc.c.o -c ../src/xmalloc.c",
+    "file": "../src/xmalloc.c",
+    "output": "test/utf8.p/.._src_xmalloc.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itest/utf8.p -Itest -I../test -I../src -I. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ test/utf8.p/.._src_modules.c.o -MF test/utf8.p/.._src_modules.c.o.d -o test/utf8.p/.._src_modules.c.o -c ../src/modules.c",
+    "file": "../src/modules.c",
+    "output": "test/utf8.p/.._src_modules.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/meson-generated_.._xdg-shell.c.o -MF tofi.p/meson-generated_.._xdg-shell.c.o.d -o tofi.p/meson-generated_.._xdg-shell.c.o -c xdg-shell.c",
+    "file": "xdg-shell.c",
+    "output": "tofi.p/meson-generated_.._xdg-shell.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/meson-generated_.._viewporter.c.o -MF tofi.p/meson-generated_.._viewporter.c.o.d -o tofi.p/meson-generated_.._viewporter.c.o -c viewporter.c",
+    "file": "viewporter.c",
+    "output": "tofi.p/meson-generated_.._viewporter.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/meson-generated_.._wlr-layer-shell-unstable-v1.c.o -MF tofi.p/meson-generated_.._wlr-layer-shell-unstable-v1.c.o.d -o tofi.p/meson-generated_.._wlr-layer-shell-unstable-v1.c.o -c wlr-layer-shell-unstable-v1.c",
+    "file": "wlr-layer-shell-unstable-v1.c",
+    "output": "tofi.p/meson-generated_.._wlr-layer-shell-unstable-v1.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/meson-generated_.._fractional-scale-v1.c.o -MF tofi.p/meson-generated_.._fractional-scale-v1.c.o.d -o tofi.p/meson-generated_.._fractional-scale-v1.c.o -c fractional-scale-v1.c",
+    "file": "fractional-scale-v1.c",
+    "output": "tofi.p/meson-generated_.._fractional-scale-v1.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_main.c.o -MF tofi.p/src_main.c.o.d -o tofi.p/src_main.c.o -c ../src/main.c",
+    "file": "../src/main.c",
+    "output": "tofi.p/src_main.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_clipboard.c.o -MF tofi.p/src_clipboard.c.o.d -o tofi.p/src_clipboard.c.o -c ../src/clipboard.c",
+    "file": "../src/clipboard.c",
+    "output": "tofi.p/src_clipboard.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_color.c.o -MF tofi.p/src_color.c.o.d -o tofi.p/src_color.c.o -c ../src/color.c",
+    "file": "../src/color.c",
+    "output": "tofi.p/src_color.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_compgen.c.o -MF tofi.p/src_compgen.c.o.d -o tofi.p/src_compgen.c.o -c ../src/compgen.c",
+    "file": "../src/compgen.c",
+    "output": "tofi.p/src_compgen.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_config.c.o -MF tofi.p/src_config.c.o.d -o tofi.p/src_config.c.o -c ../src/config.c",
+    "file": "../src/config.c",
+    "output": "tofi.p/src_config.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_desktop_vec.c.o -MF tofi.p/src_desktop_vec.c.o.d -o tofi.p/src_desktop_vec.c.o -c ../src/desktop_vec.c",
+    "file": "../src/desktop_vec.c",
+    "output": "tofi.p/src_desktop_vec.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_drun.c.o -MF tofi.p/src_drun.c.o.d -o tofi.p/src_drun.c.o -c ../src/drun.c",
+    "file": "../src/drun.c",
+    "output": "tofi.p/src_drun.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_entry.c.o -MF tofi.p/src_entry.c.o.d -o tofi.p/src_entry.c.o -c ../src/entry.c",
+    "file": "../src/entry.c",
+    "output": "tofi.p/src_entry.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_entry_backend_pango.c.o -MF tofi.p/src_entry_backend_pango.c.o.d -o tofi.p/src_entry_backend_pango.c.o -c ../src/entry_backend/pango.c",
+    "file": "../src/entry_backend/pango.c",
+    "output": "tofi.p/src_entry_backend_pango.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_entry_backend_harfbuzz.c.o -MF tofi.p/src_entry_backend_harfbuzz.c.o.d -o tofi.p/src_entry_backend_harfbuzz.c.o -c ../src/entry_backend/harfbuzz.c",
+    "file": "../src/entry_backend/harfbuzz.c",
+    "output": "tofi.p/src_entry_backend_harfbuzz.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_matching.c.o -MF tofi.p/src_matching.c.o.d -o tofi.p/src_matching.c.o -c ../src/matching.c",
+    "file": "../src/matching.c",
+    "output": "tofi.p/src_matching.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_history.c.o -MF tofi.p/src_history.c.o.d -o tofi.p/src_history.c.o -c ../src/history.c",
+    "file": "../src/history.c",
+    "output": "tofi.p/src_history.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_input.c.o -MF tofi.p/src_input.c.o.d -o tofi.p/src_input.c.o -c ../src/input.c",
+    "file": "../src/input.c",
+    "output": "tofi.p/src_input.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_lock.c.o -MF tofi.p/src_lock.c.o.d -o tofi.p/src_lock.c.o -c ../src/lock.c",
+    "file": "../src/lock.c",
+    "output": "tofi.p/src_lock.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_log.c.o -MF tofi.p/src_log.c.o.d -o tofi.p/src_log.c.o -c ../src/log.c",
+    "file": "../src/log.c",
+    "output": "tofi.p/src_log.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_mkdirp.c.o -MF tofi.p/src_mkdirp.c.o.d -o tofi.p/src_mkdirp.c.o -c ../src/mkdirp.c",
+    "file": "../src/mkdirp.c",
+    "output": "tofi.p/src_mkdirp.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_scale.c.o -MF tofi.p/src_scale.c.o.d -o tofi.p/src_scale.c.o -c ../src/scale.c",
+    "file": "../src/scale.c",
+    "output": "tofi.p/src_scale.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_shm.c.o -MF tofi.p/src_shm.c.o.d -o tofi.p/src_shm.c.o -c ../src/shm.c",
+    "file": "../src/shm.c",
+    "output": "tofi.p/src_shm.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_string_vec.c.o -MF tofi.p/src_string_vec.c.o.d -o tofi.p/src_string_vec.c.o -c ../src/string_vec.c",
+    "file": "../src/string_vec.c",
+    "output": "tofi.p/src_string_vec.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_surface.c.o -MF tofi.p/src_surface.c.o.d -o tofi.p/src_surface.c.o -c ../src/surface.c",
+    "file": "../src/surface.c",
+    "output": "tofi.p/src_surface.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_unicode.c.o -MF tofi.p/src_unicode.c.o.d -o tofi.p/src_unicode.c.o -c ../src/unicode.c",
+    "file": "../src/unicode.c",
+    "output": "tofi.p/src_unicode.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_xmalloc.c.o -MF tofi.p/src_xmalloc.c.o.d -o tofi.p/src_xmalloc.c.o -c ../src/xmalloc.c",
+    "file": "../src/xmalloc.c",
+    "output": "tofi.p/src_xmalloc.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi.p -I. -I.. -I/usr/include/freetype2 -I/usr/include/libpng16 -I/usr/include/harfbuzz -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -I/usr/include/cairo -I/usr/include/pixman-1 -I/usr/include/pango-1.0 -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/fribidi -I/usr/include/gio-unix-2.0 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi.p/src_modules.c.o -MF tofi.p/src_modules.c.o.d -o tofi.p/src_modules.c.o -c ../src/modules.c",
+    "file": "../src/modules.c",
+    "output": "tofi.p/src_modules.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_main_compgen.c.o -MF tofi-compgen.p/src_main_compgen.c.o.d -o tofi-compgen.p/src_main_compgen.c.o -c ../src/main_compgen.c",
+    "file": "../src/main_compgen.c",
+    "output": "tofi-compgen.p/src_main_compgen.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_compgen.c.o -MF tofi-compgen.p/src_compgen.c.o.d -o tofi-compgen.p/src_compgen.c.o -c ../src/compgen.c",
+    "file": "../src/compgen.c",
+    "output": "tofi-compgen.p/src_compgen.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_matching.c.o -MF tofi-compgen.p/src_matching.c.o.d -o tofi-compgen.p/src_matching.c.o -c ../src/matching.c",
+    "file": "../src/matching.c",
+    "output": "tofi-compgen.p/src_matching.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_log.c.o -MF tofi-compgen.p/src_log.c.o.d -o tofi-compgen.p/src_log.c.o -c ../src/log.c",
+    "file": "../src/log.c",
+    "output": "tofi-compgen.p/src_log.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_mkdirp.c.o -MF tofi-compgen.p/src_mkdirp.c.o.d -o tofi-compgen.p/src_mkdirp.c.o -c ../src/mkdirp.c",
+    "file": "../src/mkdirp.c",
+    "output": "tofi-compgen.p/src_mkdirp.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_string_vec.c.o -MF tofi-compgen.p/src_string_vec.c.o.d -o tofi-compgen.p/src_string_vec.c.o -c ../src/string_vec.c",
+    "file": "../src/string_vec.c",
+    "output": "tofi-compgen.p/src_string_vec.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_unicode.c.o -MF tofi-compgen.p/src_unicode.c.o.d -o tofi-compgen.p/src_unicode.c.o -c ../src/unicode.c",
+    "file": "../src/unicode.c",
+    "output": "tofi-compgen.p/src_unicode.c.o"
+  },
+  {
+    "directory": "/home/f4/Documents/tofi/toficqualculator/src",
+    "command": "cc -Itofi-compgen.p -I. -I.. -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -I/usr/include/sysprof-6 -flto -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -std=c2x -O2 -g -DDEBUG -pedantic -Wshadow -Wno-unused-parameter -D_GNU_SOURCE -D_FORTIFY_SOURCE=2 -fno-asynchronous-unwind-tables -fPIE -pthread -MD -MQ tofi-compgen.p/src_xmalloc.c.o -MF tofi-compgen.p/src_xmalloc.c.o.d -o tofi-compgen.p/src_xmalloc.c.o -c ../src/xmalloc.c",
+    "file": "../src/xmalloc.c",
+    "output": "tofi-compgen.p/src_xmalloc.c.o"
+  }
+]

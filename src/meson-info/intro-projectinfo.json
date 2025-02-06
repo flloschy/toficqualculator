@@ -1,0 +1,10 @@
+{
+  "version": "0.9.1",
+  "descriptive_name": "tofi",
+  "license": [
+    "MIT"
+  ],
+  "license_files": [],
+  "subproject_dir": "subprojects",
+  "subprojects": []
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "freetype2",
+    "type": "pkgconfig",
+    "version": "26.2.20",
+    "compile_args": [
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread"
+    ],
+    "link_args": [
+      "/usr/lib/libfreetype.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "freetype"
+    ]
+  },
+  {
+    "name": "harfbuzz",
+    "type": "pkgconfig",
+    "version": "10.2.0",
+    "compile_args": [
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread"
+    ],
+    "link_args": [
+      "/usr/lib/libharfbuzz.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "harfbuzz"
+    ]
+  },
+  {
+    "name": "cairo",
+    "type": "pkgconfig",
+    "version": "1.18.2",
+    "compile_args": [
+      "-I/usr/include/cairo",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread",
+      "-I/usr/include/pixman-1"
+    ],
+    "link_args": [
+      "/usr/lib/libcairo.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "cairo"
+    ]
+  },
+  {
+    "name": "pangocairo",
+    "type": "pkgconfig",
+    "version": "1.56.1",
+    "compile_args": [
+      "-I/usr/include/pango-1.0",
+      "-I/usr/include/cairo",
+      "-I/usr/include/pixman-1",
+      "-I/usr/include/libmount",
+      "-I/usr/include/blkid",
+      "-I/usr/include/fribidi",
+      "-I/usr/include/harfbuzz",
+      "-I/usr/include/freetype2",
+      "-I/usr/include/libpng16",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread"
+    ],
+    "link_args": [
+      "/usr/lib/libpangocairo-1.0.so",
+      "/usr/lib/libpango-1.0.so",
+      "/usr/lib/libgobject-2.0.so",
+      "/usr/lib/libglib-2.0.so",
+      "/usr/lib/libharfbuzz.so",
+      "/usr/lib/libcairo.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "pangocairo"
+    ]
+  },
+  {
+    "name": "wayland-client",
+    "type": "pkgconfig",
+    "version": "1.23.1",
+    "compile_args": [],
+    "link_args": [
+      "/usr/lib/libwayland-client.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "wayland_client"
+    ]
+  },
+  {
+    "name": "wayland-protocols",
+    "type": "pkgconfig",
+    "version": "1.39",
+    "compile_args": [],
+    "link_args": [],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "wayland_protocols"
+    ]
+  },
+  {
+    "name": "wayland-scanner",
+    "type": "pkgconfig",
+    "version": "1.23.1",
+    "compile_args": [],
+    "link_args": [],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "wayland_scanner_dep"
+    ]
+  },
+  {
+    "name": "xkbcommon",
+    "type": "pkgconfig",
+    "version": "1.7.0",
+    "compile_args": [],
+    "link_args": [
+      "/usr/lib/libxkbcommon.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "xkbcommon"
+    ]
+  },
+  {
+    "name": "glib-2.0",
+    "type": "pkgconfig",
+    "version": "2.82.4",
+    "compile_args": [
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/sysprof-6",
+      "-pthread"
+    ],
+    "link_args": [
+      "/usr/lib/libglib-2.0.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "glib"
+    ]
+  },
+  {
+    "name": "gio-unix-2.0",
+    "type": "pkgconfig",
+    "version": "2.82.4",
+    "compile_args": [
+      "-I/usr/include/gio-unix-2.0",
+      "-I/usr/include/glib-2.0",
+      "-I/usr/lib/glib-2.0/include",
+      "-I/usr/include/libmount",
+      "-I/usr/include/blkid",
+      "-I/usr/include/sysprof-6",
+      "-pthread"
+    ],
+    "link_args": [
+      "/usr/lib/libgio-2.0.so",
+      "/usr/lib/libgobject-2.0.so",
+      "/usr/lib/libglib-2.0.so"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "gio_unix"
+    ]
+  },
+  {
+    "name": "rt",
+    "type": "library",
+    "version": "unknown",
+    "compile_args": [],
+    "link_args": [
+      "-lrt"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "librt"
+    ]
+  },
+  {
+    "name": "m",
+    "type": "library",
+    "version": "unknown",
+    "compile_args": [],
+    "link_args": [
+      "-lm"
+    ],
+    "include_directories": [],
+    "sources": [],
+    "extra_files": [],
+    "dependencies": [],
+    "depends": [],
+    "meson_variables": [
+      "libm"
+    ]
+  }
+]

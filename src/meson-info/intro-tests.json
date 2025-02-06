@@ -1,0 +1,40 @@
+[
+  {
+    "cmd": [
+      "/home/f4/Documents/tofi/toficqualculator/src/test/config"
+    ],
+    "env": {},
+    "name": "config",
+    "workdir": null,
+    "timeout": 30,
+    "suite": [
+      "tofi"
+    ],
+    "is_parallel": true,
+    "priority": 0,
+    "protocol": "tap",
+    "depends": [
+      "9f86d08@@config@exe"
+    ],
+    "extra_paths": []
+  },
+  {
+    "cmd": [
+      "/home/f4/Documents/tofi/toficqualculator/src/test/utf8"
+    ],
+    "env": {},
+    "name": "utf8",
+    "workdir": null,
+    "timeout": 30,
+    "suite": [
+      "tofi"
+    ],
+    "is_parallel": true,
+    "priority": 0,
+    "protocol": "tap",
+    "depends": [
+      "9f86d08@@utf8@exe"
+    ],
+    "extra_paths": []
+  }
+]
