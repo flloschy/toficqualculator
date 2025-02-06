@@ -13,6 +13,7 @@
 #include <wayland-client.h>
 #include <wayland-util.h>
 #include <xkbcommon/xkbcommon.h>
+#include "src/clipboard.h"
 #include "tofi.h"
 #include "compgen.h"
 #include "drun.h"
@@ -29,6 +30,7 @@
 #include "unicode.h"
 #include "viewporter.h"
 #include "xmalloc.h"
+#include "modules.h"
 
 #undef MAX
 #undef MIN
@@ -1006,25 +1008,12 @@ static bool do_submit(struct tofi *tofi)
 	uint32_t selection = entry->selection + entry->first_result;
 	char *res = entry->results.buf[selection].string;
 
-	if (tofi->window.entry.results.count <= 1) {
-		// no work
-		// if (res[0] == "=") {
-  		// 	printf(res);
-  		// 	return true;
-		// } 
+	if (tofi->window.entry.results.count == 0) {
 		if (tofi->require_match) {
 			return false;
 		} else {
-			char result[128] = "qalc -t -m 1000  \"";
-			strncat(result, entry->input_utf8, sizeof(result) - 1);
-			strncat(result, "\"", sizeof(result) - 1);
-			// execute command
-			FILE *fp = popen(result, "r");
-    		// extract String from FILE
-    		fgets(result, 50, fp);
-    		pclose(fp);
-			// print result
-			printf(result);
+			// return result
+			printf(res);
 			return true;
 		}
 	}
@@ -1043,6 +1032,7 @@ static bool do_submit(struct tofi *tofi)
 			}
 		}
 		if (app == NULL) {
+			if (execute_module(res)) return true;
 			log_error("Couldn't find application file! This shouldn't happen.\n");
 			return false;
 		}

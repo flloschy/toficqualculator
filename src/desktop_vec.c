@@ -11,6 +11,7 @@
 #include <stdlib.h> // incluced String for qalc
 #include <string.h>
 #include <wayland-client-protocol.h>
+#include "modules.h"
 
 static bool match_current_desktop(char *const *desktop_list, gsize length);
 
@@ -178,20 +179,7 @@ struct string_ref_vec desktop_vec_filter(const struct desktop_vec *restrict vec,
   qsort(filt.buf, filt.count, sizeof(filt.buf[0]), cmpscorep);
   // use input to calculate if no match is found
   if (filt.count == 0) {
-    char result[128] = "qalc -t -m 1000  \"";
-    result[sizeof(result) - 1] = '\0'; // Ensure null termination
-    strncat(result, substr, sizeof(result) - 1);
-    strncat(result, "\"", sizeof(result) - 1);
-    // execute command
-    FILE *fp = popen(result, "r");
-    // extract String from FILE
-    fgets(result, 50, fp);
-    pclose(fp);
-    // print result
-    if (result != NULL) {
-      // printf(result);
-      string_ref_vec_add(&filt, utf8_normalize(result));
-    }
+    add_moudle_suggestions(substr, filt);
   }
   return filt;
 }
